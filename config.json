@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "인곡관": {
+      "style": "dorm",
+      "wall": "#b9b4ac",
+      "glass": "#4a5a66",
+      "frame": "#d6d2ca"
+    },
+    "영암체육관": {
+      "style": "stone",
+      "wall": "#d6cfc3",
+      "glass": "#3f4d58",
+      "frame": "#e8e4dc"
+    },
+    "예술관": {
+      "style": "stone",
+      "wall": "#d9dbdc",
+      "glass": "#4d6680",
+      "frame": "#c8ccd0"
+    },
+    "연암도서관": {
+      "style": "stone",
+      "wall": "#d8d2c6",
+      "glass": "#3c6b93",
+      "frame": "#e8e4dc"
+    },
+    "공학관": {
+      "style": "brick",
+      "wall": "#8a4a40",
+      "glass": "#4a5260",
+      "frame": "#e6e2dc"
+    },
+    "이학관": {
+      "style": "stone",
+      "wall": "#d6d2cc",
+      "glass": "#2f4a52",
+      "frame": "#e2dfda"
+    },
+    "보건관": {
+      "style": "stone",
+      "wall": "#c9cdd2",
+      "glass": "#2f4048",
+      "frame": "#b8bec4"
+    },
+    "자악관": {
+      "style": "stone",
+      "wall": "#cfc9c2",
+      "glass": "#3a4650",
+      "frame": "#e6e2dc"
+    },
+    "인문관": {
+      "style": "brick",
+      "wall": "#844b3e",
+      "glass": "#3f5a60",
+      "frame": "#e6e4e0"
+    },
+    "인곡2관": {
+      "style": "brick",
+      "wall": "#a06152",
+      "glass": "#3a4a55",
+      "frame": "#ebe8e2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
