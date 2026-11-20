@@ -1,0 +1,34 @@
+{
+ "region": "충남 서산시 해미면 대곡리",
+ "nameEn": "Hanseo University Seosan Campus",
+ "added": "2026-10-24T16:30",
+ "rank": 102,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HYEJEON",
+   "campus": "혜전대학교",
+   "km": 14.0
+  },
+  {
+   "code": "SHINSUNG",
+   "campus": "신성대학교",
+   "km": 17.9
+  },
+  {
+   "code": "KONGJU-YESAN",
+   "campus": "국립공주대학교 예산캠퍼스",
+   "km": 24.7
+  },
+  {
+   "code": "SEHAN-DANGJIN",
+   "campus": "세한대학교 당진캠퍼스",
+   "km": 27.1
+  },
+  {
+   "code": "HANSEO-TAEAN",
+   "campus": "한서대학교 태안캠퍼스",
+   "km": 28.0
+  }
+ ]
+}
